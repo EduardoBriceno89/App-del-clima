@@ -17,11 +17,6 @@ body {
     min-height: 100vh;
 }
 
-::selection {
-    color: #fff;
-    background: #43AFFC;
-}
-
 .wrapper {
     width: 400px;
     background: #fff;
